@@ -27,3 +27,11 @@ def factorial(n):
         return n
     else:
         return n *  factorial(n-1)
+
+def reverse(word):
+
+    '''Return word in reverse'''
+    reverse_word = ''
+    for i in range(len(word)):
+        reverse_word = word[i] + reverse_word
+    return reverse_word
