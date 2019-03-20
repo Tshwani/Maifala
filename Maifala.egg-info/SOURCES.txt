@@ -1,0 +1,7 @@
+README.md
+setup.py
+Maifala.egg-info/PKG-INFO
+Maifala.egg-info/SOURCES.txt
+Maifala.egg-info/dependency_links.txt
+Maifala.egg-info/requires.txt
+Maifala.egg-info/top_level.txt
